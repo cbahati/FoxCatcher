@@ -28,7 +28,7 @@ from foxcatcher_lib import Window
 from foxcatcher.AboutFoxcatcherDialog import AboutFoxcatcherDialog
 from foxcatcher.PreferencesFoxcatcherDialog import PreferencesFoxcatcherDialog
 
-dev_key  = "yBb9DilAbXqZ0MCH" # global variable for your developer's key
+dev_key  = "" # global variable for your developer's key
 
 
 # See foxcatcher_lib.Window.py for more details about how this class works
