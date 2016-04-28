@@ -1,0 +1,14 @@
+status: 200
+x-request-id: d367ea8cb65f80011740ea5374b38d4c
+content-location: http://api.songkick.com/api/3.0/events.json?apikey=yBb9DilAbXqZ0MCH&artist_name=kendrick
+expires: Wed, 22 Apr 2015 11:33:01 GMT
+vary: Accept-Encoding
+content-length: 83
+connection: close
+-content-encoding: gzip
+cache-control: private, max-age=3600
+date: Wed, 22 Apr 2015 10:33:01 GMT
+content-type: application/json; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+{"resultsPage":{"status":"ok","results":{},"perPage":50,"page":1,"totalEntries":0}}

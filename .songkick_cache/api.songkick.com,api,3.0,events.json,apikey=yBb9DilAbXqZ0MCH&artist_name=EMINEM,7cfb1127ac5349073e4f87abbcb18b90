@@ -1,0 +1,14 @@
+status: 200
+x-request-id: ee1a4407746b0338f519bbc453f26e2c
+content-location: http://api.songkick.com/api/3.0/events.json?apikey=yBb9DilAbXqZ0MCH&artist_name=EMINEM
+expires: Tue, 12 May 2015 19:23:05 GMT
+vary: Accept-Encoding
+content-length: 83
+connection: close
+-content-encoding: gzip
+cache-control: private, max-age=3600
+date: Tue, 12 May 2015 18:23:05 GMT
+content-type: application/json; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+{"resultsPage":{"status":"ok","results":{},"perPage":50,"page":1,"totalEntries":0}}

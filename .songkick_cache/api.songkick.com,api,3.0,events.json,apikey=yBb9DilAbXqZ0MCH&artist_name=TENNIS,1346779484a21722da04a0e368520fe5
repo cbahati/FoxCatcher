@@ -1,0 +1,15 @@
+status: 200
+x-request-id: ce8ae38e636073e4b457e49c6c425a8b
+content-location: http://api.songkick.com/api/3.0/events.json?apikey=yBb9DilAbXqZ0MCH&artist_name=TENNIS
+expires: Sun, 17 Apr 2016 05:49:08 GMT
+vary: Accept-Encoding
+content-length: 83
+connection: close
+-content-encoding: gzip
+cache-control: private, max-age=3600
+date: Sun, 17 Apr 2016 04:49:08 GMT
+x-sinatra-route: GET /api/3.0/events.:format
+content-type: application/json; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+{"resultsPage":{"status":"ok","results":{},"perPage":50,"page":1,"totalEntries":0}}

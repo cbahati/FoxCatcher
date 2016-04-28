@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Foxcatcher
+Comment=Foxcatcher application
+Categories=GNOME;Utility;
+Exec=foxcatcher
+Icon=foxcatcher
+Terminal=false
+Type=Application

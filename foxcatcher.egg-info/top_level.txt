@@ -1,0 +1,2 @@
+foxcatcher
+foxcatcher_lib

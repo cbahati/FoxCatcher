@@ -1,0 +1,14 @@
+status: 200
+x-request-id: 8ee23658d71f20e195263a94cce90407
+content-location: http://api.songkick.com/api/3.0/events.json?apikey=yBb9DilAbXqZ0MCH&artist_name=PUFFY
+expires: Wed, 22 Apr 2015 15:07:44 GMT
+vary: Accept-Encoding
+content-length: 83
+connection: close
+-content-encoding: gzip
+cache-control: private, max-age=3600
+date: Wed, 22 Apr 2015 14:07:44 GMT
+content-type: application/json; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+{"resultsPage":{"status":"ok","results":{},"perPage":50,"page":1,"totalEntries":0}}
