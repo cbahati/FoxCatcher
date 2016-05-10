@@ -17,11 +17,16 @@ FoxCatcher is a desktop app that allows you to keep track of the touring dates o
 
 git clone git://github.com/cbahati/FoxCatcher.git
 
-## Usage
+## Getting Started
 
 <img src="http://i.imgur.com/rK7C8i8.png" >
+inside the FoxcatcherWindow.py file which is located inside /Foxcatcher/foxcatcher/ directory
+at line 32, change the dev_key variable to your SongKick API key enclosed in quotation marks.
 
-
+## Usage
+ - To run FoxCatcher type: "quickly run"
+ - For a graphical look at the GUI type: "quickly design"
+ - Most of the revelant code is situated in "FoxcatcherWindow.py"
 
 ## TODO
 
