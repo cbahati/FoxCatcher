@@ -5,7 +5,7 @@ FoxCatcher is a desktop app that allows you to keep track of the touring dates o
 
 ## Screenshots
 <img src="http://i.imgur.com/yGb2Lch.png?1" height="400px">
-
+<img src= "http://i.imgur.com/Tsaq9mY.png?1" height="400px">
 ## Requirements:
 
  - Python 2.7
