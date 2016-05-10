@@ -4,7 +4,7 @@
 FoxCatcher is a desktop app that allows you to keep track of the touring dates of your favorite artists in a given city.
 
 ## Screenshots
-<img src="http://i.imgur.com/yGb2Lch.png?1" height="600px">
+<img src="http://i.imgur.com/yGb2Lch.png?1" height="400px">
 
 ## Requirements:
 
