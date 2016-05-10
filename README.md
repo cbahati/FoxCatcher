@@ -19,7 +19,7 @@ git clone git://github.com/cbahati/FoxCatcher.git
 
 ## Usage
 
-
+<img src="http://i.imgur.com/rK7C8i8.png" >
 
 
 
