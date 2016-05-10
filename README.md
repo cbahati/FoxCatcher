@@ -19,7 +19,7 @@ git clone git://github.com/cbahati/FoxCatcher.git
 
 ## Getting Started
 
-<img src="http://i.imgur.com/rK7C8i8.png" >
+<img src="http://i.imgur.com/rK7C8i8.png" > <br>
 inside the FoxcatcherWindow.py file which is located inside /Foxcatcher/foxcatcher/ directory
 at line 32, change the dev_key variable to your SongKick API key enclosed in quotation marks.
 
