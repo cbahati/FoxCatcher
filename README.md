@@ -9,6 +9,7 @@ FoxCatcher is a desktop app that allows you to keep track of the touring dates o
 ## Requirements:
 
  - Python 2.7
+ - PyGTK
  - Python Songkick API: https://github.com/mattdennewitz/python-songkick.git
  - SongKick API Key: http://www.songkick.com/api_key_requests/new to request an API key. 
  - quickly
